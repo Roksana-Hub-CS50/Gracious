@@ -1,2 +1,2 @@
 # Gracious
-Frontend Web Developement
+ Front end developement
